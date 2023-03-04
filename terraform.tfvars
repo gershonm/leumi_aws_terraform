@@ -1,0 +1,7 @@
+vpc_name           = "GerM"
+vpc_cidr           = "10.181.242.0/24"
+public_subnet_cidr = "10.181.242.0/24"
+instance_type      = "t2.micro"
+aws_key            = "GerM"
+EC2_name           = "GerM EC2"
+leumi_proxy        = "91.231.246.50/32"
